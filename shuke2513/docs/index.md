@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome to DS2513
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full information visit it.
 
-## Commands
+## Deadline
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `u校园课程`10.11
+* `体育网课` 12.15
+* `英语四级考试` 12.13
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Daily Quests
+
+* `上课考勤`微信群打卡，学号填后两位
+
+    
